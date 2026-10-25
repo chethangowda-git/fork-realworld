@@ -523,10 +523,10 @@ components:
         - bio
         - following
         - image
-        - username
+        - handle
       type: object
       properties:
-        username:
+        handle:
           type: string
         bio:
           type:
